@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Pase de lista inteligente</string>
+    <string name="app_name">Pase de lista</string>
     <string name="course_list">Lista de clases</string>
     <string name="username">Usuario</string>
     <string name="password">Contraseña</string>
@@ -24,7 +24,7 @@
     <string name="time">Hora</string>
     <string name="attendance_detail">Detalle de asistencia</string>
     <string name="click_to_see">Click para ver</string>
-    <string name="current_attendance">Asistencia actual</string>
+    <string name="current_attendance">Asistencia</string>
     <string name="modify">Modificar</string>
     <string name="delete">Eliminar</string>
     <string name="next_attendance_hint">Nota： el rango asistencia es de 10 minutos antes o despues de la clase</string>

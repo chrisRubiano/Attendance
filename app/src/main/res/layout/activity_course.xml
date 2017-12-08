@@ -167,7 +167,7 @@
             android:paddingTop="5dp">
 
             <Button
-                android:layout_width="60dp"
+                android:layout_width="115dp"
                 android:layout_height="60dp"
                 android:layout_gravity="center_vertical"
                 android:layout_marginStart="5dp"
