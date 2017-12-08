@@ -1,7 +1,7 @@
 package com.attendance.data;
 
 /**
- * Created by peiqin on 2/26/2017.
+ * Created by cristian on 11/20/2017.
  */
 
 public class AttendResult {

@@ -27,7 +27,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by peiqin on 7/28/2016.
+ * Created by cristian on 11/20/2017.
  */
 public class CoursesActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener,
         SwipeRefreshLayout.OnRefreshListener, CoursesContract.View {
@@ -103,7 +103,7 @@ public class CoursesActivity extends AppCompatActivity implements NavigationView
         mEmptyTv.setText(getString(R.string.teacher_add_course));
         mCourseLv.setEmptyView(mEmptyTv);
 
-        //ListView点击事件
+        //ListView
         mCourseLv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {

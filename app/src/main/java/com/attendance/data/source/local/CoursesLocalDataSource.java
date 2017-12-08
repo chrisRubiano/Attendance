@@ -12,7 +12,7 @@ import org.greenrobot.greendao.query.QueryBuilder;
 import java.util.List;
 
 /**
- * Created by peiqin on 9/18/2016.
+ * Created by cristian on 11/18/2017.
  */
 public class CoursesLocalDataSource {
 

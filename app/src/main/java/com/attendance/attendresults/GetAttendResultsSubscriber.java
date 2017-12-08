@@ -12,7 +12,7 @@ import java.util.List;
 import rx.Subscriber;
 
 /**
- * Created by peiqin on 3/5/2017.
+ * Created by cristian on 3/5/2017.
  */
 
 public class GetAttendResultsSubscriber extends Subscriber<AttendResult> {

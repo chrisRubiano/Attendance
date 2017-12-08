@@ -147,7 +147,6 @@ public class LoginActivity extends Activity implements LoginContract.View {
         public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
             switch (v.getId()) {
                 case R.id.username_et:
-                    // 密码输入框获取焦点
                     mPasswordEt.requestFocus();
                     break;
                 case R.id.password_et:

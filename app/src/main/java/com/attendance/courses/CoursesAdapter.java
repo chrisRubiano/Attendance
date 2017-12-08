@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Administrator on 2016/8/30.
+ * Created by cristian on 11/21/17.
  */
 public class CoursesAdapter extends BaseAdapter {
     private List<Course> courseList;

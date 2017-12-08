@@ -15,7 +15,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 /**
- * Created by peiqin on 9/25/2016.
+ * Created by cristian on 11/17/2017.
  */
 public class CourseDetailActivity extends AppCompatActivity {
 

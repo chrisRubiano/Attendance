@@ -11,7 +11,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by peiqin on 3/5/2017.
+ * Created by cristian on 11/19/2017.
  */
 
 public class AttendResultsRemoteDataSource {

@@ -1,52 +1,52 @@
 <resources>
-    <string name="app_name">智能考勤系统</string>
-    <string name="course_list">课程列表</string>
-    <string name="username">用户名</string>
-    <string name="password">密码</string>
-    <string name="login">登录</string>
-    <string name="logout">退出登录</string>
-    <string name="teacher">教师</string>
-    <string name="student">学生</string>
-    <string name="rem_password">记住密码</string>
-    <string name="fake_teacher">大神老师</string>
+    <string name="app_name">Pase de lista inteligente</string>
+    <string name="course_list">Lista de clases</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="teacher">Maestro</string>
+    <string name="student">Estudiante</string>
+    <string name="rem_password">Recordar contraseña</string>
+    <string name="fake_teacher">Maestro falso</string>
 
-    <string name="about_software">关于软件</string>
-    <string name="course_detail">课程信息</string>
-    <string name="teacher_add_course">您还没有创建过任何课程\n\n请点击添加按钮创建课程</string>
+    <string name="about_software">Nosotros</string>
+    <string name="course_detail">Información de clase</string>
+    <string name="teacher_add_course">No has creado clases\n\nPor favor seleccione el botón de agregar</string>
 
-    <string name="confirm">确定</string>
-    <string name="cancel">取消</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
 
-    <string name="course_name">课程名</string>
-    <string name="teacher_name">任课教师</string>
-    <string name="student_num">学生人数</string>
-    <string name="location">地点</string>
-    <string name="time">时间</string>
-    <string name="attendance_detail">考勤详情</string>
-    <string name="click_to_see">点击查看</string>
-    <string name="current_attendance">当前\n考勤</string>
-    <string name="modify">修改</string>
-    <string name="delete">删除</string>
-    <string name="next_attendance_hint">注：考勤时间为上课前10分钟内及下课后10分钟内</string>
-    <string name="view_report">查看考勤结果</string>
+    <string name="course_name">Nombre de curso</string>
+    <string name="teacher_name">Nombre de maestro</string>
+    <string name="student_num">numero de estudiante</string>
+    <string name="location">Lugar</string>
+    <string name="time">Hora</string>
+    <string name="attendance_detail">Detalle de asistencia</string>
+    <string name="click_to_see">Click para ver</string>
+    <string name="current_attendance">Asistencia actual</string>
+    <string name="modify">Modificar</string>
+    <string name="delete">Eliminar</string>
+    <string name="next_attendance_hint">Nota： el rango asistencia es de 10 minutos antes o despues de la clase</string>
+    <string name="view_report">Ver reporte</string>
     <string name="stu_num">1</string>
-    <string name="next_location">教学楼A座</string>
-    <string name="next_time">星期一 9:00-12:00</string>
+    <string name="next_location">Siguiente lugar</string>
+    <string name="next_time">Semana一 9:00-12:00</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     
-    <string name="attend_result">考勤结果</string>
-    <string name="empty_result">现在还没有任何考勤结果</string>
+    <string name="attend_result">Resultados de asistencia</string>
+    <string name="empty_result">No hay resultados de asistencia</string>
 
-    <string name="network_corrupt">网络中断，请检查您的网络状态</string>
+    <string name="network_corrupt">Error de red</string>
 
-    <string name="login_warning">帐号或密码不能为空</string>
-    <string name="login_loading">登录中……</string>
-    <string name="login_success">登录成功</string>
-    <string name="login_failed">登录失败！请用账号1、密码1及老师身份登录</string>
+    <string name="login_warning">Usuario o contraseña no puede estar vacío</string>
+    <string name="login_loading">Iniciando sesión...</string>
+    <string name="login_success">Login exitoso!</string>
+    <string name="login_failed">Login fallido, usuario:1, contraseña 1</string>
 
-    <string name="get_success">获取信息成功</string>
-    <string name="get_failed">获取信息失败</string>
+    <string name="get_success">Mensaje recibido con exito</string>
+    <string name="get_failed">Error al recibir el mensaje</string>
 
 </resources>

@@ -9,7 +9,7 @@ import java.net.SocketTimeoutException;
 import rx.Subscriber;
 
 /**
- * Created by peiqin on 3/5/2017.
+ * Created by cristian on 11/18/2017.
  */
 
 public class LoginSubscriber extends Subscriber<Boolean> {

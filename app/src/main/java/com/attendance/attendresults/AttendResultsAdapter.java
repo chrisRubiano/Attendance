@@ -12,7 +12,7 @@ import java.util.List;
 import de.codecrafters.tableview.TableDataAdapter;
 
 /**
- * Created by peiqin on 2/26/2017.
+ * Created by cristian on 11/19/2017.
  */
 public class AttendResultsAdapter extends TableDataAdapter<AttendResult> {
 

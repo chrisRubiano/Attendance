@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteDatabase;
 import com.attendance.data.DaoMaster;
 
 /**
- * Created by peiqin on 5/12/2017.
+ * Created by cristian on 11/18/2017.
  */
 
 public class DBHelper {

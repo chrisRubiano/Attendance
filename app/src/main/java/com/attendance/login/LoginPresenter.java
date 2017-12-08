@@ -10,7 +10,7 @@ import com.attendance.util.NetWorkUtil;
 import com.attendance.util.SharedFileUtil;
 
 /**
- * Created by peiqin on 3/4/2017.
+ * Created by cristian on 11/18/2017.
  */
 
 public class LoginPresenter implements LoginContract.Presenter {
@@ -58,7 +58,6 @@ public class LoginPresenter implements LoginContract.Presenter {
         sharedFileUtil.putBoolean("hasLogin", true);
         sharedFileUtil.putString("username", username);
         if (isRemPassword) {
-            //加密后再将密码放入SharePreferences
             String password_after_encrypt = AESUtil.encryptWithBase64(password);
             sharedFileUtil.putString("password", password_after_encrypt);
             sharedFileUtil.putBoolean("isRemPassword", true);

@@ -19,7 +19,7 @@ import de.codecrafters.tableview.SortableTableView;
 import de.codecrafters.tableview.toolkit.SimpleTableHeaderAdapter;
 
 /**
- * Created by peiqin on 2/24/2017.
+ * Created by cristian on 11/19/2017.
  */
 public class AttendResultsActivity extends AppCompatActivity implements AttendResultsContract.View {
 
@@ -48,7 +48,7 @@ public class AttendResultsActivity extends AppCompatActivity implements AttendRe
 
         mTitleTv.setText(R.string.attend_result);
 
-        String[] title = {"姓名", "出勤", "早退", "迟到", "总计"};
+        String[] title = {"Nombre", "Asistencia", "Salió", "Retardo", "Total"};
         mResultTv.setHeaderAdapter(new SimpleTableHeaderAdapter(this, title));
         mResultTv.setColumnComparator(0, MyComparator.getNameComparator());
         mResultTv.setColumnComparator(1, MyComparator.getAttendComparator());

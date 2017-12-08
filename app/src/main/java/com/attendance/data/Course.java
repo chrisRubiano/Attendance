@@ -5,7 +5,7 @@ import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * Created by peiqin on 2016/8/31.
+ * Created by cristian on 11/17/2017.
  */
 @Entity
 public class Course {

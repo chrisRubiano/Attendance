@@ -15,7 +15,7 @@ public class AESUtil {
     private static final String CIPHER_ALGORITHM_CBC_PADDING5 = "AES/CBC/PKCS5Padding";
     private static final String CHARSET = "UTF-8";
 	
-	/**加密
+	/**
 	 * @param oldStr
 	 * @return
 	 */
@@ -33,7 +33,7 @@ public class AESUtil {
 		return "";
 	}
 
-	/**解密
+	/**
 	 * @param base64String
 	 * @return
 	 */

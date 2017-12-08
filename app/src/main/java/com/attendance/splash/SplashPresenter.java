@@ -6,7 +6,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * Created by peiqin on 3/4/2017.
+ * Created by cristian on 11/18/2017.
  */
 
 public class SplashPresenter implements SplashContract.Presenter {
